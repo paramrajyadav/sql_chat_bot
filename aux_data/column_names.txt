@@ -1,0 +1,9 @@
+customer_id
+store_id
+product_name
+sales_date
+sales_person_id
+price
+quantity
+total_cost
+payment_mode
